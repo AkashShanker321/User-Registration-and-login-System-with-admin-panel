@@ -1,5 +1,8 @@
 # User-Registration-and-login-System-with-admin-panel
 Contains index.php and Sql Files which are related to the project.
+The Username and Password for Admin-Panel is : 
+ Username : admin
+ Password : Admin123
 ![screencapture-localhost-User-Registration-and-login-System-with-admin-panel-loginsystem-2021-02-04-12_54_36](https://user-images.githubusercontent.com/76723803/106859107-96993180-66e8-11eb-843c-240038396ab1.png)
 ![screencapture-localhost-User-Registration-and-login-System-with-admin-panel-loginsystem-2021-02-04-12_54_58](https://user-images.githubusercontent.com/76723803/106859124-9e58d600-66e8-11eb-9b97-badf5eb7b66d.png)
 ![screencapture-localhost-User-Registration-and-login-System-with-admin-panel-loginsystem-2021-02-04-12_55_14](https://user-images.githubusercontent.com/76723803/106859150-a4e74d80-66e8-11eb-8cb9-981b33624363.png)
